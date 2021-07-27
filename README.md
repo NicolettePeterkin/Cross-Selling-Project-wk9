@@ -1,3 +1,3 @@
 # Cross-Selling-Project-wk9
 
-Data cleaning and transformation 
+This repo shows XYZ credit Union Data cleaning and transformation 
